@@ -1,0 +1,15 @@
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\bin\Debug\net6.0\DarkRoom2.exe
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\bin\Debug\net6.0\DarkRoom2.deps.json
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\bin\Debug\net6.0\DarkRoom2.runtimeconfig.json
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\bin\Debug\net6.0\DarkRoom2.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\bin\Debug\net6.0\DarkRoom2.pdb
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\DarkRoom2.csproj.AssemblyReference.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\DarkRoom2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\DarkRoom2.AssemblyInfoInputs.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\DarkRoom2.AssemblyInfo.cs
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\DarkRoom2.csproj.CoreCompileInputs.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\DarkRoom2.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\refint\DarkRoom2.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\DarkRoom2.pdb
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\DarkRoom2.genruntimeconfig.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\C#\DarkRoom2\DarkRoom2\DarkRoom2\obj\Debug\net6.0\ref\DarkRoom2.dll
